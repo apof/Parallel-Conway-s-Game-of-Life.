@@ -7,7 +7,7 @@ We have made 3 different implementation.
 The first one is based on MPI library and the second is a combination of MPI and OpenMP.
 The third implementation uses CUDA library and requires a NVIDIA GPU in order to be executed.
 
-All our results can be found in the ReadMe.pdf. This document is written in Greek but there are tables that illustrate our measurements.
+All our results can be found in the Report.pdf. This document is written in Greek but there are tables that illustrate our measurements.
 These measurements have been made to a cluster with 15 machines, each of these has an Intel Core Duo processor (MPI and OpenMP) and to a server with one NVIDIA GeForce GTX780 GPU. To analyse the overhead of communication we used Paraver.
 
 Concerning our implementation with MPI and OpenMP, we designed our application in compliance with the below rules.
