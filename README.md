@@ -1,4 +1,4 @@
-# Parallel-Conway-s-Game-of-Life.
+# Parallel-Conway's-Game-of-Life.
 Conway's Game of Life using MPI, OpenMP and CUDA.
 
 The main goal of this project is to parallelize the Conway's Game of Life.
