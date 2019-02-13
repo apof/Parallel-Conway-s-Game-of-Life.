@@ -17,5 +17,5 @@ Another way to reduce the overhead of communication is the use of right topology
 By using grid topology, we achieve to keep neighbor processor near. As a result, we minimize the cost of communication.
 Finally, we experiment with MPI_Allreduce command to find out the optimized termination condition.
 
-Authors: Apostolos Florakis - Dimitrios Tsesmelis (https://github.com/JimTsesm)
+Authors: Apostolos Florakis(https://github.com/apof) - Dimitrios Tsesmelis (https://github.com/JimTsesm)
 
